@@ -1,3 +1,5 @@
+![A chrome director calls action on a rain-soaked neon set](docs/hero.jpg)
+
 # SMF Video Recipes
 
 Recipes a person or an agent can follow to make a video the same way twice.
